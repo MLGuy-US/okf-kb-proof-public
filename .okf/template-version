@@ -1,4 +1,4 @@
 # okf-template-sync: where this repository's template files came from (see .okf/template-manifest).
 repo=guyernest/okf-kb-template
-tag=okf-kb-template-v0.1.3
-commit=f87e3e16d04af10b32729ec34c899831e6744234
+tag=okf-kb-template-v0.1.4
+commit=37df240e75bef7299663bdebac5ae36ed53895db
